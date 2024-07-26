@@ -1,7 +1,8 @@
+import { ThemeToggle } from "@/components/theme-toggle";
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col p-24">
-      <p>HOME AUTH ROUTE</p>
+      <div className="flex">Test</div>
     </main>
   );
 }
